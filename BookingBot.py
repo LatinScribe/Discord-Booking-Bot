@@ -8,6 +8,9 @@ This file contains the actual code for running the bot
 import discord
 from discord.ext import commands
 
+# This is the Discord API Token
+# DO NOT share or save this token - it's VERY dangerous
+# It will not be available on this public Repo
 TOKEN = ...   # TO DO generate actual token
 
 # initialise the client
